@@ -1,0 +1,1 @@
+tellraw @a [{"text":"[Datapack]"},{"text":" Example Datapack has been enabled","color":"green"}]
